@@ -30,13 +30,3 @@ Advanced Challenge
 User Story: As a user I want to be able to choose to split my hand whenever possible.
 
 User Story: As a user I want to be able to choose to double down whenever possible
-
-Project-specific resources
-
-    Blackjack 49
-    Python random module 9
-    Python lists 3
-    Python dictionaries 2
-    Python classes 3
-    Command line glossary 5
-    Python documentation 3
