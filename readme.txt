@@ -1,3 +1,4 @@
+WORK IN PROGRESS
 Objective
 
 Build a console application that allows the user to play blackjack versus a computer dealer.
